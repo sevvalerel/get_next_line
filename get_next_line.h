@@ -6,7 +6,7 @@
 /*   By: seerel <seerel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/08 22:29:58 by buket             #+#    #+#             */
-/*   Updated: 2024/11/25 14:11:55 by seerel           ###   ########.fr       */
+/*   Updated: 2024/11/27 12:28:06 by seerel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,7 +17,6 @@
 #  define BUFFER_SIZE 1
 # endif
 
-# include <stddef.h>
 # include <stdlib.h>
 # include <unistd.h>
 
